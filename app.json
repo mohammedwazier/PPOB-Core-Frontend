@@ -1,0 +1,12 @@
+{
+  "name": "nusa_ppob",
+  "displayName": "nusa_ppob",
+  "expo": {
+    "name": "nusa_ppob",
+    "slug": "nusa_ppob",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
